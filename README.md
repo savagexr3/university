@@ -20,7 +20,7 @@ Total: 20 credit units
 I am taking ES1103 because I come from a polytechnic background where I did not take General Paper in A-Levels. Additionally, I scored a Band 2 in the Qualifying English Test (QET) by NUS. 
 * Folder Structure:
     * Syllabus: Contains the syllabus for the module.
-    * Lessons: Each week's tutorial and task will be organized here.
+    * Tutorials: Each week's tutorial and task will be organized here.
     * Assignments: Contains all the assignments for the module.
 
 ### GES1008/GESS1006 Ethnicity and Nation-Building: Singapore and Malaysia
